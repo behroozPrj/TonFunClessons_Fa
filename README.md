@@ -1,7 +1,7 @@
-# Lessons on developing smart contracts on FunC for The Open Network(TON)
+#آموزش برنامه نویسی قرارداد های هوشمند در بلاک چین The Open Network(TON)
 
-Lessons on developing smart contracts on FunC for The Open Network(TON). The lessons are located in the appropriate folders in .md format, and a code is attached to each lesson. Our community - [here](https://t.me/ton_learn). The lessons are first done in Russian [here](https://github.com/romanovichim/TonFunClessons_ru/), and then I gradually translate them into English, if you want to help - the donation addresses are below.
-
+درس هایی در مورد توسعه قراردادهای هوشمند در FunC برای بلاک چین The Open Network(TON). دروس در پوشه های مربوطه با فرمت md قرار دارند و برای هر درس یک کد ضمیمه شده است. انجمن ما - [اینجا](https://t.me/Tonprogrammers). دروس ابتدا به زبان روسی [اینجا] (https://github.com/romanovichim/TonFunClessons_ru/) انجام می شود، این دروس را به تدریج به فارسی ترجمه می کنم، اگر می خواهید کمک کنید - آدرس های کمک مالی در زیر آمده است.
+لیست و سرفصل های دروس در زیر آمده است که نیازی برای ترجمه این قسمت ها دیده نمیشود...
 ## Roadmap
 | Number | Lesson | Considered concepts | Link | Status |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -33,11 +33,16 @@ Lessons on developing smart contracts on FunC for The Open Network(TON). The les
 || **Dapp series**   |||||
 | 20 | Auth with tonkeeper | We build an application with authorization through TonConnect  | [LINK](./21lesson/tonkeeper_eng.md) | ✅  |
 
-## Questions and discussion of lessons (Chat in two languages - Russian and English)
+# سوالات و بحث در مورد دروس(Russian and English)
 
 https://t.me/ton_learn
+# سوالات و بحث در مورد دروس (فارسی)
 
-## Development assistance
+
+https://t.me/Tonprogrammers
+
+## آدرس های کمک مالی برای برو بکس فارسی 
+
 
 Ton:  EQAvmc9oVnOvLFlUAgeNmZNZoKeDg9vTEiAQxNFw-t5mh3m7
 
