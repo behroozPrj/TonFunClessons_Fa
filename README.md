@@ -42,6 +42,8 @@ https://t.me/ton_learn
 https://t.me/Tonprogrammers
 
 ## آدرس های کمک مالی برای برو بکس فارسی 
+## EQADnjZQ2abIHcEt4aVpvYQrwN7urnPFIg2fTwGzgljnFXvt
+## آدرس های کمک مالی برای برو بکس روسی 
 
 
 Ton:  EQAvmc9oVnOvLFlUAgeNmZNZoKeDg9vTEiAQxNFw-t5mh3m7
